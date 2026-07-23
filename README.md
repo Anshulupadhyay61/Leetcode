@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
