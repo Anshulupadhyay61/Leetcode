@@ -48,6 +48,7 @@
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2235-add-two-integers) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2525-categorize-box-according-to-criteria) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
