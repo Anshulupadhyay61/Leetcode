@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0125-valid-palindrome) |
