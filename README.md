@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -15,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
