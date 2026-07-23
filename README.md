@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1672-richest-customer-wealth) |
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
