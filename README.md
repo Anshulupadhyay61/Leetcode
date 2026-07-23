@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
 ## Math
@@ -50,6 +52,7 @@
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
