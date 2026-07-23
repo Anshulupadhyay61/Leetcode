@@ -15,6 +15,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
@@ -69,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 ## Queue
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
